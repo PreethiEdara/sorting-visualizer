@@ -1,7 +1,7 @@
 ## SORTING ALGORITHMS VISUALIZER
 Developed a python application to visualize various sorting algorithms and understand them better.
 
-Implemented Algorithms:
+**Implemented Algorithms:**  
  Bubble Sort, 
  Insertion Sort, 
  Selection Sort, 
